@@ -1,2 +1,2 @@
 # Presentation
-Vertical full screen slider for Park-Parfum
+Vertical full screen slider
